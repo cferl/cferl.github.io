@@ -1,0 +1,24 @@
+/* This is where we will be writing all of your styles */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto');
+
+body {
+  background-color: #f7f4f6;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 30px;
+}
+li {
+  display: inline-block;
+  margin: 30px;
+}
